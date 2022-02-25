@@ -1,7 +1,9 @@
 # SP500_Stock
 Analyze SP500 stock
 
-Credit
+
+
+---------------------Credit-------------------------
 
 # credit https://www.kaggle.com/neomatrix369/everything-you-can-do-with-a-time-series-stocks
 
